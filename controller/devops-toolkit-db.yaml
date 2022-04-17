@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: devops-toolkit/db
-    repoURL: https://github.com/vfarcic/combine-infra-services-apps
+    repoURL: https://github.com/dtsong/combine-infra-services-apps
     targetRevision: HEAD
   destination:
     namespace: production
