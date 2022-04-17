@@ -10,7 +10,7 @@ metadata:
 spec:
   project: production
   source:
-    repoURL: https://github.com/vfarcic/combine-infra-services-apps.git
+    repoURL: https://github.com/dtsong/combine-infra-services-apps.git
     targetRevision: HEAD
     path: controller
   destination:

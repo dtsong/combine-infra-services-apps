@@ -9,7 +9,7 @@ spec:
   project: production
   source:
     path: gke
-    repoURL: https://github.com/vfarcic/combine-infra-services-apps
+    repoURL: https://github.com/dtsong/combine-infra-services-apps
     targetRevision: HEAD
   destination:
     server: https://kubernetes.default.svc
