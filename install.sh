@@ -1,3 +1,6 @@
+#!/bin/bash
+
+export GH_ORG=dtsong
 export KUBECONFIG=$PWD/kubeconfig.yaml
 
 # Feel free to use any other Kubernetes cluster
