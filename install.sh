@@ -120,7 +120,7 @@ git add .
 
 git commit -m "Initial commit"
 
-git push
+git push origin install-script
 
 # Watch https://youtu.be/Twtbg6LFnAg if you are not familiar with Kustomize
 
@@ -214,7 +214,7 @@ git add .
 
 git commit -m "New destination"
 
-git push
+git push origin install-script
 
 kubectl --namespace production get pods
 
@@ -230,7 +230,7 @@ git add .
 
 git commit -m "Not any more"
 
-git push
+git push origin install-script
 
 echo https://console.cloud.google.com/sql/instances?project=$PROJECT_ID
 
